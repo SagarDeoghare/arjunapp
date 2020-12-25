@@ -1,0 +1,7 @@
+{
+  "name": "arjunapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
